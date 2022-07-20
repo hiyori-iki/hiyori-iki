@@ -13,6 +13,10 @@
 
 <img align="left" alt="Cpp" width="26px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
 
+<img align="left" alt="HTML" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919827.png" />
+
+<img align="left" alt="CSS" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919826.png" />
+
 <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
