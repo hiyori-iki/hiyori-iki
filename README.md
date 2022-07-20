@@ -1,7 +1,7 @@
 # Hiyori-iki
 ### Hey! I'm [Dhanashree Patil](https://hiyori-iki.github.io) 😀
 
-## I'm an Engineering student and also a Backend Developer
+## I'm an Engineering student and also a Frontend Developer
 - 🎓 I'm currently in the Fourth Year of Engineering
 - 👨‍I have only one hobby and that is playing Valorant. And yes, it consumes all my free time :)
 - ⚽ Goals: To learn more programming languages and focus on writing cleaner and more efficient code
