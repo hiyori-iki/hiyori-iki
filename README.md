@@ -1,4 +1,4 @@
-# hiyori-iki
+# Hiyori-iki
 ### Hey! I'm [Dhanashree Patil](https://hiyori-iki.github.io) 😀
 
 ## I'm an Engineering student and also a Backend Developer
