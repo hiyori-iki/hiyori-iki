@@ -3,7 +3,7 @@
 
 ## I'm an Engineering student and also a Backend Developer
 - 🎓 I'm currently in the Fourth Year of Engineering
-- 👨‍I have only one hobby and that is to play Valorant. And yes, it consumes all my free time :)
+- 👨‍I have only one hobby and that is playing Valorant. And yes, it consumes all my free time :)
 - ⚽ Goals: To learn more programming languages and focus on writing cleaner and more efficient code
 - 💻 Right now I'm trying to explore more and more fields to learn more and get experience on different fields
 
