@@ -1,11 +1,11 @@
 # Hiyori-iki
 ### Hey! I'm [Dhanashree Patil](https://hiyori-iki.github.io) 😀
 
-## I'm an Engineering student and also a Frontend Developer
-- 🎓 I've completed my engineering in computer science from SPPU.
-- 👨‍I have only one hobby and that is playing Valorant. And yes, it consumes all my free time :)
-- ⚽ Goals: To learn more programming languages and focus on writing cleaner and more efficient code
-- 💻 Right now I'm trying to explore more and more fields to learn more and get experience on different fields
+## Backend Developer | DSA Enthusiast | Working with Yardi softwares
+- 🎓 Backend Developer focused on building scalable systems and efficient server-side logic.
+- 🎮 Spends free time clicking heads and analyzing game strategies (Competitive spirit, basically!).
+- ⚽ Goals: Dedicated to writing clean, maintainable, and high-performance code to ensure long-term system scalability.
+- 💻 I am currently grinding LeetCode to master problem-solving patterns.
 
 ## Languages and Tools
 
